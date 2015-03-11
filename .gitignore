@@ -4,3 +4,4 @@ app/composer.lock
 app/templates_c/
 .DS_Store
 .vagrant*
+composer.phar
