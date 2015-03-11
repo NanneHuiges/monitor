@@ -1,0 +1,16 @@
+{
+  "name": "monitor",
+  "version": "0.0.0",
+  "homepage": "thijsw.com",
+  "authors": [
+    "Thijs Wijnmaalen <thijs@wijnmaalen.name>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
